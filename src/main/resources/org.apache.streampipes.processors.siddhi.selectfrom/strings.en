@@ -1,0 +1,8 @@
+org.apache.streampipes.processors.siddhi.selectfrom.title=Select-From
+org.apache.streampipes.processors.siddhi.selectfrom.description=Select-From Siddhi query
+
+select.title=Select Statement
+select.description=Select statement
+
+from.title=From Statement
+from.description=From statement
