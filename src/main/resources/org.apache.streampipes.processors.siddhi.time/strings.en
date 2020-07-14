@@ -1,0 +1,8 @@
+org.apache.streampipes.processors.siddhi.time.title=Simple Time Window Example
+org.apache.streampipes.processors.siddhi.time.description=Simple Time Window Example in Siddhi
+
+timestamp.title=Timestamp field
+timestamp.description=Specifies the timestamp field
+
+window-length.title=Window length
+window-length.description=Specifies the window length in seconds.
